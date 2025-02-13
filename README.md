@@ -1,6 +1,7 @@
 # ChatGPT
 Open-Sourcering ChatGPT
 
+# Introduction
 I've been getting bugged by these "You've hit your free limits" etc. etc. from OpenAI's ChatGPT, what about Deepseek? Or Perplexity? Or Copilot?
 
 I'm a bit sick of the AI hype, but OpenAI is like the Coca-Cola of these AI companies, there are plenty of these companies, but OpenAI has got the signature brand name, and I guess I'd like to just stick with that.
@@ -13,6 +14,7 @@ I'm not sure how long this will take, but I'm sure it will be a fun project to w
 
 I'm having my CS mocks so my contributions to this project will be limited for the next week, but I'll be sure to check out your pull requests and issues
 
+# Potential roadmap
 We'll be using NextJS, I guess the roadmap will go something like this:
 - Replicate ChatGPT UI
 - Add some sort of account system (log in, log out etc.)
@@ -20,8 +22,14 @@ We'll be using NextJS, I guess the roadmap will go something like this:
 - Add functionality to chat (First text, then support other files)
 - Integrate search and reasoning
 
+# Tasks:
+
 At the moment, all tasks are open, if you would like to work on a task, please open an issue and assign yourself to it, if you would like to work on a task that is not listed, please open an issue and we can discuss it. If you see an issue already existing with a task mentioned, it is taken.
 
-Tasks:
 - [ ] Formalize the README.md to fit professional standards
 - [ ] Come up with more tasks
+
+# Stack
+- NextJS
+- Shadcn UI
+- TypeScript
