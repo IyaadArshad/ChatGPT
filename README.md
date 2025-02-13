@@ -27,6 +27,7 @@ We'll be using NextJS, I guess the roadmap will go something like this:
 At the moment, all tasks are open, if you would like to work on a task, please open an issue and assign yourself to it, if you would like to work on a task that is not listed, please open an issue and we can discuss it. If you see an issue already existing with a task mentioned, it is taken.
 
 - [ ] Formalize the README.md to fit professional standards
+- [ ] Replicate 404 page, example: https://chatgpt.com/sitemawfjouweeuoejo
 - [ ] Come up with more tasks
 
 # Stack
